@@ -1,0 +1,38 @@
+body{
+    margin: 0%;
+
+}
+.background{
+    background-color:rgb(204, 221, 224);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    height: 70vh;
+    width: 45vh;
+    border-radius: 4%;
+}
+img{
+    height: 40vh;
+    width:40vh;
+    padding:6%;
+    border-radius: 10%;
+}
+
+.text{
+    padding: 0% 10% 0%;
+    margin: 0%;   
+}
+.sub{
+    margin-top: 0%;
+    font-weight: 600;
+    font-size: 17px;
+}
+.caption{
+    
+}
